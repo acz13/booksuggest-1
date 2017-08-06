@@ -11,13 +11,10 @@ function run (data) {
     choicesPane.innerHTML = ''
     questionText.innerHTML = question.text
     question.choices.forEach(function (choice) {
-      var choiceContainer = document.importNode(choiceTemplate.content,
-                                                true)
+      var choiceContainer = document.importNode(choiceTemplate.content, true)
       choiceContainer.firstElementChild.innerHTML = choice.text
-      console.log(choiceContainer.firstElementChild.innerHTML)
       choicesPane.appendChild(choiceContainer)
       choicesPane.lastElementChild.addEventListener('click', e => {
-        console.log('click')
         callback(choice.value)
       })
     })
@@ -26,8 +23,10 @@ function run (data) {
   (function doQuiz (quizName) {
     var quiz = data[quizName]
     var resultNames = quiz.results
-    var results = Array(resultNames.length).map(Number.prototype.valueOf, 0)
+    var results = Array.apply(null, Array(resultNames.length))
+                         .map(Number.prototype.valueOf, 0)
     ; (function loop (q) {
+      console.log(results)
       if (q < quiz.questions.length) {
         doQuestion(quiz.questions[q], results, v => {
           v.forEach((n, i) => { results[i] += n })

@@ -12,19 +12,20 @@ body {
   margin: 0;
 }
 
-#question-pane {
-  height: 100%;
-  flex-basis: 40%;
+.text-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  position: relative;
   border: 1px solid black; /* dev purposes */
 }
 
+#question-pane {
+  height: 100%;
+  flex-basis: 40%;
+}
+
 #question-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   font-weight: bold;
   font-size: 300%;
 }
@@ -37,11 +38,7 @@ body {
 }
 
 .choice-container {
-  border: 1px solid black; /* dev purposes */
   cursor: pointer;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  text-align: center;
   flex: 1 1;
 }
