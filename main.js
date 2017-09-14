@@ -36,7 +36,7 @@ function run (data) {
         var result = resultNames[
             results.reduce((m, x, i) => x > results[m] ? i : m, 0)
         ]
-        window.alert(result) // for dev purposes
+        // window.alert(result) // for dev purposes
         doQuiz(result)
       }
     })(0)
