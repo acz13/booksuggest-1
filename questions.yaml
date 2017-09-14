@@ -1,21 +1,21 @@
 starter:
-  choices:
+  results:
     - rl
-    - ar
+    - au
   questions:
-    - text: I feel most alive during the
+    - text:
       choices:
         - text: Day
           value: [2, 0]
         - text: Night
           value: [0, 1]
-    - text: 
+    - text:
       choices:
         - text: Cat
           value: [0, 1]
         - text: Dog
           value: [1, 0]
-    - text: 
+    - text:
       choices:
         - text: Inside
           value: [0, 1]
@@ -39,7 +39,7 @@ starter:
           value: [1, 0]
         - text: Plane
           value: [0, 1]
-    - text: 
+    - text:
       choices:
         - text: Dragon
           value: [0, 2]
@@ -59,39 +59,39 @@ starter:
           value: [0, 1]
         - text: Shower
           value: [1, 0]
-    - text: 
+    - text:
       choices:
         - text: Disney
           value: [0, 2]
         - text: Pixar
           value: [2, 0]
-    - text: 
+    - text:
       choices:
         - text: City
           value: [1, 0]
         - text: Countryside
           value: [0, 1]
-    - text: 
+    - text:
       choices:
         - text: Camera
           value: [2, 0]
         - text: Canvas
           value: [0, 4]
-    - text: 
+    - text:
       choices:
         - text: Batman
           value: [2, 0]
         - text: Superman
           value: [0, 2]
-    - text: 
+    - text:
       choices:
         - text: Romeo and Juliet
           value: [2, 0]
-        - text: A Midsummers Night Dream
+        - text: A Midsummer Night's Dream
           value: [0, 2]
 
 rl:
-  choices:
+  results:
     - ct
     - hi
   questions:
@@ -184,8 +184,8 @@ rl:
         - text: Michelle Obama
           value: [1, 0]
 
-ar:
-choices:
+au:
+  results:
     - dy
     - fn
     - hr
@@ -306,12 +306,3 @@ choices:
           value: [0, 4, 0, 1, 0, 2, 4]
         - text: Epcot
           value: [2, 0, 1, 0, 4, 0, 0]
-
-
-
-
-
-
-
-
-
