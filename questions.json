@@ -1,8 +1,8 @@
 {
    "starter": {
       "results": [
-         "rl",
-         "au"
+         "Real World",
+         "Author's Universe"
       ],
       "questions": [
          {
@@ -280,10 +280,10 @@
          }
       ]
    },
-   "rl": {
+   "Real World": {
       "results": [
-         "ct",
-         "hi"
+         "Contemporary Fiction",
+         "Historical Fiction"
       ],
       "questions": [
          {
@@ -570,15 +570,15 @@
          }
       ]
    },
-   "au": {
+   "Author's Universe": {
       "results": [
-         "dy",
-         "fn",
-         "hr",
-         "pn",
-         "sf",
-         "sp",
-         "ft"
+         "Dystopia",
+         "Fantasy",
+         "Horror",
+         "Paranormal",
+         "SciFi",
+         "Superpower",
+         "Fairy Tale"
       ],
       "questions": [
          {
