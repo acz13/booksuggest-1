@@ -90,7 +90,7 @@ starter:
         - text: A Midsummers Night Dream
           value: [0, 2]
 
-Real Life:
+rl:
   choices:
     - ct
     - hi
@@ -184,7 +184,7 @@ Real Life:
         - text: Michelle Obama
           value: [1, 0]
 
-Author's Universe:
+ar:
 choices:
     - dy
     - fn
@@ -306,3 +306,12 @@ choices:
           value: [0, 4, 0, 1, 0, 2, 4]
         - text: Epcot
           value: [2, 0, 1, 0, 4, 0, 0]
+
+
+
+
+
+
+
+
+
