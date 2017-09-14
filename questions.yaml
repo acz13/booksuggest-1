@@ -1,7 +1,7 @@
 starter:
   results:
-    - rl
-    - au
+    - Real World
+    - Author's Universe
   questions:
     - text:
       choices:
@@ -90,10 +90,10 @@ starter:
         - text: A Midsummer Night's Dream
           value: [0, 2]
 
-rl:
+Real World:
   results:
-    - ct
-    - hi
+    - Contemporary Fiction
+    - Historical Fiction
   questions:
     - text: 
       choices:
@@ -184,15 +184,15 @@ rl:
         - text: Michelle Obama
           value: [1, 0]
 
-au:
+Author's Universe:
   results:
-    - dy
-    - fn
-    - hr
-    - pn 
-    - sf
-    - sp
-    - ft
+    - Dystopia
+    - Fantasy
+    - Horror
+    - Paranormal
+    - SciFi
+    - Superpower
+    - Fairy Tale
   questions:
     - text: Gemstone
       choices:
@@ -306,3 +306,12 @@ au:
           value: [0, 4, 0, 1, 0, 2, 4]
         - text: Epcot
           value: [2, 0, 1, 0, 4, 0, 0]
+
+
+
+
+
+
+
+
+
