@@ -1,1 +1,1209 @@
-{"starter":{"results":["Real Life","Author's Universe"],"questions":[{"text":null,"choices":[{"text":"Day","value":[2,0]},{"text":"Night","value":[0,1]}]},{"text":null,"choices":[{"text":"Cat","value":[0,1]},{"text":"Dog","value":[1,0]}]},{"text":null,"choices":[{"text":"Inside","value":[0,1]},{"text":"Outside","value":[1,0]}]},{"text":"Sun","choices":[{"text":"rise","value":[1,0]},{"text":"set","value":[0,1]}]},{"text":"Playing","choices":[{"text":"Video Games","value":[0,2]},{"text":"Card Games","value":[1,0]}]},{"text":"Travel by","choices":[{"text":"Car","value":[1,0]},{"text":"Plane","value":[0,1]}]},{"text":null,"choices":[{"text":"Dragon","value":[0,2]},{"text":"Dinosaur","value":[2,0]}]},{"text":"I dream about the","choices":[{"text":"Past","value":[0,0]},{"text":"Present","value":[4,0]},{"text":"Future","value":[0,2]}]},{"text":"A nice long","choices":[{"text":"Bath","value":[0,1]},{"text":"Shower","value":[1,0]}]},{"text":null,"choices":[{"text":"Disney","value":[0,2]},{"text":"Pixar","value":[2,0]}]},{"text":null,"choices":[{"text":"City","value":[1,0]},{"text":"Countryside","value":[0,1]}]},{"text":null,"choices":[{"text":"Camera","value":[2,0]},{"text":"Canvas","value":[0,4]}]},{"text":null,"choices":[{"text":"Batman","value":[2,0]},{"text":"Superman","value":[0,2]}]},{"text":null,"choices":[{"text":"Romeo and Juliet","value":[2,0]},{"text":"A Midsummer Night's Dream","value":[0,2]}]}]}}
+{
+   "starter": {
+      "results": [
+         "rl",
+         "au"
+      ],
+      "questions": [
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Day",
+                  "value": [
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Night",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Cat",
+                  "value": [
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "Dog",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Inside",
+                  "value": [
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "Outside",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Sun",
+            "choices": [
+               {
+                  "text": "rise",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "set",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Playing",
+            "choices": [
+               {
+                  "text": "Video Games",
+                  "value": [
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Card Games",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Travel by",
+            "choices": [
+               {
+                  "text": "Car",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Plane",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Dragon",
+                  "value": [
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Dinosaur",
+                  "value": [
+                     2,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "I dream about the",
+            "choices": [
+               {
+                  "text": "Past",
+                  "value": [
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Present",
+                  "value": [
+                     4,
+                     0
+                  ]
+               },
+               {
+                  "text": "Future",
+                  "value": [
+                     0,
+                     2
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "A nice long",
+            "choices": [
+               {
+                  "text": "Bath",
+                  "value": [
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "Shower",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Disney",
+                  "value": [
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Pixar",
+                  "value": [
+                     2,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "City",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Countryside",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Camera",
+                  "value": [
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Canvas",
+                  "value": [
+                     0,
+                     4
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Batman",
+                  "value": [
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Superman",
+                  "value": [
+                     0,
+                     2
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Romeo and Juliet",
+                  "value": [
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "A Midsummer Night's Dream",
+                  "value": [
+                     0,
+                     2
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "rl": {
+      "results": [
+         "ct",
+         "hi"
+      ],
+      "questions": [
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "The Tudors",
+                  "value": [
+                     0,
+                     4
+                  ]
+               },
+               {
+                  "text": "House of Cards",
+                  "value": [
+                     2,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "The Beatles",
+                  "value": [
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Radiohead",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "The Rolling Stones",
+                  "value": [
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Coldplay",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Linkin Park",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Imagine Dragons",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Twenty One Pilot",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Paperback",
+                  "value": [
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "eBook",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "I most enjoy learning",
+            "choices": [
+               {
+                  "text": "History",
+                  "value": [
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Political Science",
+                  "value": [
+                     2,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "I most visit",
+            "choices": [
+               {
+                  "text": "Buzzfeed",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "The New York Times",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "I would rather live in",
+            "choices": [
+               {
+                  "text": "London",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "New York",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "I take notes by",
+            "choices": [
+               {
+                  "text": "Keyboard",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Pen and Paper",
+                  "value": [
+                     0,
+                     2
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Waking up with a cup of",
+            "choices": [
+               {
+                  "text": "Coffee",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Tea",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "My timepieces are",
+            "choices": [
+               {
+                  "text": "Digital",
+                  "value": [
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Analog",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "In DC, I would rather go to the National",
+            "choices": [
+               {
+                  "text": "Museums",
+                  "value": [
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Mall",
+                  "value": [
+                     2,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Modern Art",
+            "choices": [
+               {
+                  "text": "Yes",
+                  "value": [
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "No",
+                  "value": [
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": null,
+            "choices": [
+               {
+                  "text": "Baseball",
+                  "value": [
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "Football",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "I want to be",
+            "choices": [
+               {
+                  "text": "Kate Middleton",
+                  "value": [
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "Michelle Obama",
+                  "value": [
+                     1,
+                     0
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "au": {
+      "results": [
+         "dy",
+         "fn",
+         "hr",
+         "pn",
+         "sf",
+         "sp",
+         "ft"
+      ],
+      "questions": [
+         {
+            "text": "Gemstone",
+            "choices": [
+               {
+                  "text": "Emerald",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Ruby",
+                  "value": [
+                     0,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "Pearl",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Obsidian",
+                  "value": [
+                     1,
+                     0,
+                     1,
+                     1,
+                     0,
+                     0,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Middle School Love",
+            "choices": [
+               {
+                  "text": "Hunger Games",
+                  "value": [
+                     4,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Harry Potter",
+                  "value": [
+                     0,
+                     4,
+                     0,
+                     1,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Twilight",
+                  "value": [
+                     0,
+                     1,
+                     0,
+                     2,
+                     0,
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Ella Enchanted",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     4
+                  ]
+               },
+               {
+                  "text": "Lord of the Rings",
+                  "value": [
+                     0,
+                     4,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Divergent",
+                  "value": [
+                     2,
+                     0,
+                     0,
+                     0,
+                     2,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Percy Jackson",
+                  "value": [
+                     0,
+                     2,
+                     0,
+                     1,
+                     0,
+                     2,
+                     1
+                  ]
+               },
+               {
+                  "text": "39 Clues",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Narnia",
+                  "value": [
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "The Sisters Grimm",
+                  "value": [
+                     0,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0,
+                     4
+                  ]
+               },
+               {
+                  "text": "Maze Runner",
+                  "value": [
+                     2,
+                     0,
+                     1,
+                     0,
+                     2,
+                     0,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Weather Phenomenon",
+            "choices": [
+               {
+                  "text": "Lightning",
+                  "value": [
+                     0,
+                     0,
+                     1,
+                     1,
+                     1,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Rain",
+                  "value": [
+                     1,
+                     0,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Hurricane",
+                  "value": [
+                     1,
+                     1,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Tornado",
+                  "value": [
+                     1,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1
+                  ]
+               },
+               {
+                  "text": "Fire",
+                  "value": [
+                     0,
+                     1,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0
+                  ]
+               },
+               {
+                  "text": "Earthquakes",
+                  "value": [
+                     1,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Snow",
+                  "value": [
+                     0,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0,
+                     1
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "TV Show",
+            "choices": [
+               {
+                  "text": "Game of Thrones",
+                  "value": [
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Doctor Who",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     4,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Stranger Things",
+                  "value": [
+                     0,
+                     0,
+                     2,
+                     2,
+                     1,
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Once Upon a Time",
+                  "value": [
+                     0,
+                     1,
+                     0,
+                     0,
+                     0,
+                     0,
+                     4
+                  ]
+               },
+               {
+                  "text": "Arrow",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     4,
+                     0
+                  ]
+               },
+               {
+                  "text": "Westworld",
+                  "value": [
+                     2,
+                     0,
+                     2,
+                     0,
+                     2,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "The Walking Dead",
+                  "value": [
+                     0,
+                     0,
+                     4,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "True Blood",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     4,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Teen Wolf",
+                  "value": [
+                     0,
+                     1,
+                     0,
+                     4,
+                     0,
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Sherlock",
+                  "value": [
+                     0,
+                     0,
+                     4,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Weapon of Choice",
+            "choices": [
+               {
+                  "text": "Gun",
+                  "value": [
+                     2,
+                     0,
+                     0,
+                     0,
+                     2,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Shovel",
+                  "value": [
+                     0,
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Pyrokinesis",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Claws",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     2,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Sword",
+                  "value": [
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Wand",
+                  "value": [
+                     0,
+                     4,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Telekinesis",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Fangs",
+                  "value": [
+                     0,
+                     0,
+                     1,
+                     4,
+                     0,
+                     0,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Halloween Costume Staple",
+            "choices": [
+               {
+                  "text": "Ghost",
+                  "value": [
+                     0,
+                     0,
+                     2,
+                     2,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Witch/Wizard",
+                  "value": [
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Princess",
+                  "value": [
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2
+                  ]
+               },
+               {
+                  "text": "Iron Man",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     2,
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Spiderman",
+                  "value": [
+                     0,
+                     0,
+                     0,
+                     0,
+                     0,
+                     2,
+                     0
+                  ]
+               },
+               {
+                  "text": "Zombie",
+                  "value": [
+                     0,
+                     0,
+                     2,
+                     0,
+                     0,
+                     0,
+                     0
+                  ]
+               },
+               {
+                  "text": "Soldier",
+                  "value": [
+                     2,
+                     0,
+                     0,
+                     0,
+                     1,
+                     0,
+                     0
+                  ]
+               }
+            ]
+         },
+         {
+            "text": "Favorite Disney World Park",
+            "choices": [
+               {
+                  "text": "Magic Kingdom",
+                  "value": [
+                     0,
+                     4,
+                     0,
+                     1,
+                     0,
+                     2,
+                     4
+                  ]
+               },
+               {
+                  "text": "Epcot",
+                  "value": [
+                     2,
+                     0,
+                     1,
+                     0,
+                     4,
+                     0,
+                     0
+                  ]
+               }
+            ]
+         }
+      ]
+   }
+}
